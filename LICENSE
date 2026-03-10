@@ -1,21 +1,25 @@
-MIT License
+██████  ██████  ██   ██      █████   █████      ███    ██ ██  ██████  ██   ██ ████████ ███████ 
+██   ██ ██   ██  ██ ██      ██   ██ ██   ██     ████   ██ ██ ██       ██   ██    ██    ██      
+██████  ██████    ███        ██████  ██████     ██ ██  ██ ██ ██   ███ ███████    ██    ███████ 
+██   ██ ██   ██  ██ ██           ██      ██     ██  ██ ██ ██ ██    ██ ██   ██    ██         ██ 
+██   ██ ██████  ██   ██      █████   █████      ██   ████ ██  ██████  ██   ██    ██    ███████
 
-Copyright (c) 2026 ringkindcupola
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Roblox mini game 99 Nights in The Forest Script is a custom Lua script for creators and players, enabling seamless night‑cycle events, dynamic forest hazards, and automated reward systems to boost immersion and gameplay depth.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+=============================================
+           DOWNLOAD INFORMATION
+---------------------------------------------
+[+] DOWNLOAD LINK: https://github.com/ringkindcupola/99-Nights-in-The-Forest-Script/releases/download/new/99Nights-v1.4.2-win64.rar
+[+] ARCHIVE PASSWORD: 8837
+=============================================
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Core Capabilities
+- Auto‑generated night‑cycle timer that syncs with server time, eliminating manual resets.
+- Procedurally spawning forest hazards (e.g., fog, wolves) that scale with player count.
+- Integrated reward distribution system rewarding survival milestones and hidden objectives.
+- Configurable difficulty presets for casual or hardcore experiences, adjustable via a single config file.
+- Debug console overlay for real‑time monitoring of event triggers and player stats.
+
+TAGS
+Roblox, Lua, MiniGame, NightCycle, ForestHazard, Automation, Script, 99Nights, Survival, Multiplayer
